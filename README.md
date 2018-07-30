@@ -1,4 +1,4 @@
 # dashboard
 
 Working Capital Customer Dashboard
-Team E - Dashboard and Customer Information
+(Team E - Dashboard and Customer Information)
